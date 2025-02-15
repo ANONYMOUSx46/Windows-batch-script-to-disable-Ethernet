@@ -1,3 +1,5 @@
+## Created by ANONYMOUSx46
+
 ## This batch script is designed to disable the Ethernet connection and ensure it remains disabled upon system startup by creating a scheduled task.
 
 Only the scheduled scritp needs to be run.
